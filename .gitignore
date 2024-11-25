@@ -1,0 +1,6 @@
+# Add these lines to .gitignore
+processed_watch_data.csv
+checkpoints/features.npy
+*.csv
+*.npy
+*.pt
