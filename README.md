@@ -12,6 +12,11 @@ Contains the core implementation of the Graph Neural Network:
   - Network construction
   - Embedding generation
   - Graph structure creation
+ 
+  This is an overview of what functionality has been in the `watch_gnn.py` :
+
+  ![High-Level Overview](https://raw.githubusercontent.com/calicartels/watch-market-gnn-code/main/images/1.png)
+
 
 ### `/visualization`
 Contains analysis and visualization scripts:
@@ -72,7 +77,9 @@ python visualization/watch_analysis.py
 ```
 
 ## Dataset Access:
-The complete dataset is available on Hugging Face: ([TMVishnu/watch-market-gnn](https://huggingface.co/datasets/TMVishnu/watch-market-gnn)
+The complete dataset is available on Hugging Face: [TMVishnu/watch-market-gnn](https://huggingface.co/datasets/TMVishnu/watch-market-gnn)
 
+## Note:
 
-
+This complete code took me close to 6 hours to run without a GPU on a Macbook Air M3 with 16GB RAM. 
+Wait for the complete code to finish running.
