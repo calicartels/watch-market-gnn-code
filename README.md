@@ -79,6 +79,9 @@ python visualization/watch_analysis.py
 ## Dataset Access:
 The complete dataset is available on Hugging Face: [TMVishnu/watch-market-gnn](https://huggingface.co/datasets/TMVishnu/watch-market-gnn)
 
+## License
+This project is licensed under the Apache License 2.0 
+
 ## Note:
 
 This complete code took me close to 6 hours to run without a GPU on a Macbook Air M3 with 16GB RAM. 
